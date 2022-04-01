@@ -1,5 +1,4 @@
-https://badge.mediaplus.ma/binary/bmaaqoul
-
+[![bmaaqoul's 42 stats](https://badge.mediaplus.ma/binary/bmaaqoul)](https://github.com/oakoudad/badge42)
 
 
 <a href="https://github.com/Brahim-maaqoul?tab=repositories">
